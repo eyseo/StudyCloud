@@ -88,6 +88,6 @@
 ### Class diagram - 관리자페이지
 <img src="https://ifh.cc/g/PYvQO8.jpg">
 
-## 💻 Site Screenshot
-[![Video Label](http://img.youtube.com/vi/Lj_95y-nO_w/0.jpg)](https://youtu.be/Lj_95y-nO_w) 
+## 💻 Site video - click yutube link
+<iframe width="1268" height="713" src="https://www.youtube.com/embed/Lj_95y-nO_w" title="파이널 프로젝트 시연 동영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
