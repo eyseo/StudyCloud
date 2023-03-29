@@ -88,7 +88,13 @@
 ### Class diagram - 관리자페이지
 <img src="https://ifh.cc/g/PYvQO8.jpg">
 
-## 💻 Site video - 메인페이지, 관리자페이지
-<iframe width="1268" height="713" src="https://www.youtube.com/embed/Lj_95y-nO_w" title="파이널 프로젝트 시연 동영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 💻 Site video
+- 메인페이지
+https://user-images.githubusercontent.com/110447180/228565578-96270d68-3d52-4605-97d5-d3e64d273dc7.mp4
 
-<iframe width="1268" height="713" src="https://www.youtube.com/embed/Lj_95y-nO_w" frameborder="0" allowfullscreen></iframe>
+- 관리자페이지(로그인, 메인화면, 멘토/스터디 등록)
+
+- 관리자페이지(스터디룸 등록/수정/삭제)
+
+- 관리자페이지(QnA관리, 예약관리, 회원관리)
+
