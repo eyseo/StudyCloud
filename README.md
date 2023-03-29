@@ -88,18 +88,18 @@
 ### Class diagram - 관리자페이지
 <img src="https://ifh.cc/g/PYvQO8.jpg">
 
-## 💻 Site video
+## 💻 Site video  
 
 - 메인페이지
-<img src="https://user-images.githubusercontent.com/110447180/228574421-0dc83f84-9dbb-43ab-8634-fa5147228d11.mp4">
+<img src="https://user-images.githubusercontent.com/110447180/228574421-0dc83f84-9dbb-43ab-8634-fa5147228d11.mp4">  
 
 
 - 관리자페이지(로그인, 메인화면, 멘토/스터디 등록)
-<img src="https://user-images.githubusercontent.com/110447180/228574904-c0b8317b-9979-48f9-88d6-d58f34f368d5.mp4">
+<img src="https://user-images.githubusercontent.com/110447180/228574904-c0b8317b-9979-48f9-88d6-d58f34f368d5.mp4">  
 
 
 - 관리자페이지(스터디룸 등록/수정/삭제)
-<img src="https://user-images.githubusercontent.com/110447180/228572746-79e70e12-8e2f-4f80-bf8a-ac35faa257e8.mp4">
+<img src="https://user-images.githubusercontent.com/110447180/228572746-79e70e12-8e2f-4f80-bf8a-ac35faa257e8.mp4">  
 
 
 - 관리자페이지(QnA관리, 예약관리, 회원관리)
