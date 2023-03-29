@@ -88,6 +88,7 @@
 ### Class diagram - 관리자페이지
 <img src="https://ifh.cc/g/PYvQO8.jpg">
 
-## 💻 Site video - click yutube link
+## 💻 Site video - 메인페이지, 관리자페이
 <iframe width="1268" height="713" src="https://www.youtube.com/embed/Lj_95y-nO_w" title="파이널 프로젝트 시연 동영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="791" height="396" src="https://www.youtube.com/embed/Ptk_1Dc2iPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
