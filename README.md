@@ -35,12 +35,31 @@
 - 스터디장: 공식 스터디 그룹 개설, 스터디 신청서 조회/수락 
 - 관리자: 멘토&스터디 신청서 조회/수락(권한 변경), 문의글 조회/답변, 예약 조회
 
-**구현기능**
+**팀원소개**
 - 팀장: 윤지원 - 멘토찾기, 멘티찾기 CRUD
 - 팀원: 김유빈 - 스터디찾기, 번개게시판 CRUD
 - 팀원: 박소영 - 로그인, 회원가입, 마이페이지
 - 팀원: 서은영 - 메인페이지, 관리자페이지
 - 팀원: 이민영 - 스터디룸대여, 자유게시판 CRUD
+
+**구현기능**
+메인페이지  
+https://github.com/StudyCloudy/StudyCloud/blob/sey/src/main/java/controller/MainController.java
+- 인기 멘토 조회
+- 스터디 조회
+- 스터디룸 조회
+- 멘토링 리뷰 조회
+
+관리자페이지  
+https://github.com/StudyCloudy/StudyCloud/blob/sey/src/main/java/controller/AdminController.java
+- 관리자 로그인
+- 멘토 신청서 조회
+- 스터디 신청서 조회 및 회원등급 변경
+- 스터디룸 작성, 수정, 삭제, 조회
+- QnA조회, 답변 작성
+- 스터디룸 예약 조회
+- 회원 조회
+- 검색 기능
 
 
 ## 🛠️ Stack
